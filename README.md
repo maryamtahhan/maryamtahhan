@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://komarev.com/ghpvc/?username=maryamtahhan)
+
+![Maryam's GitHub stats](https://github-readme-stats.vercel.app/api?username=maryamtahhan&show_icons=true)
+
+- 🔭 I’m currently working on AF_XDP and integration into Kubernetes.
