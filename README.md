@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 ![Maryam's GitHub stats](https://github-readme-stats.vercel.app/api?username=maryamtahhan&show_icons=true&theme=dark)
 
-- 🔭 I’m currently working on:
-  - Kepler
-  - AF_XDP and integration into Kubernetes.
+🔭 I’m currently working on:
+ - GPU Kernel Management in Kubernetes
+ - Kepler
+ - AF_XDP and integration into Kubernetes.
