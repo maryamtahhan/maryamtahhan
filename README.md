@@ -21,5 +21,4 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on:
  - GPU Kernel Management in Kubernetes
- - Kepler
  - AF_XDP and integration into Kubernetes.
