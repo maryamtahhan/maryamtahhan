@@ -10,3 +10,5 @@
 - eBPF, kernel networking & systems programming
 - GPU/accelerator enablement (CUDA, Triton, ROCm)
 - Kubernetes & cloud-native AI
+
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/maryamtahhan/badge.svg)](https://hub.xerj.org/contributors/maryamtahhan.html)
