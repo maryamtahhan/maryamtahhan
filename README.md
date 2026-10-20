@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![](https://komarev.com/ghpvc/?username=maryamtahhan)
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/maryamtahhan/badge.svg)](https://hub.xerj.org/contributors/maryamtahhan.html)
 
 🔭 **Currently working on:**
 - CPU inference with [vLLM](https://github.com/vllm-project/vllm)
@@ -11,4 +12,4 @@
 - GPU/accelerator enablement (CUDA, Triton, ROCm)
 - Kubernetes & cloud-native AI
 
-[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/maryamtahhan/badge.svg)](https://hub.xerj.org/contributors/maryamtahhan.html)
+
